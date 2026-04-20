@@ -25,5 +25,14 @@ int main(){
     elektronik.tanggalProduksi = "2007-02-02";
 
     elektronik.printData();
+
+    Barang nonElektronik;
+    nonElektronik.nama = "kasur";
+    nonElektronik.jumlah = 30;
+    nonElektronik.kategori = "nonElektronik";
+    nonElektronik.tanggalProduksi = "2009-03-03";
+
+    nonElektronik.printData();
+}
  
     
