@@ -15,3 +15,5 @@ public :
     }
 }; //batas class
 
+int main(){
+    
