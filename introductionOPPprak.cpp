@@ -17,3 +17,13 @@ public :
     }
 };
 
+int main(){
+    Barang elektronik;
+    elektronik.nama = "kipas";
+    elektronik.jumlah = 55;
+    elektronik.kategori = "elektronik";
+    elektronik.tanggalProduksi = "2007-02-02";
+
+    elektronik.printData();
+ 
+    
